@@ -1,0 +1,33 @@
+# Environments
+.env
+.env.local
+venv/
+.venv/
+env/
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Databases & Data
+data/
+backend/chroma_db/
+backend/knowledge_base/
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
